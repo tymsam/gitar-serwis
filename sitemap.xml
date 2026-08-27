@@ -1,79 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url>
-	<loc>https://gitarserwis.pl/</loc>
-	<lastmod>2026-06-05</lastmod>
-	<changefreq>weekly</changefreq>
-	<priority>1.0</priority>
-	<image:image>
-	<image:loc>https://gitarserwis.pl/img/serwisCat.png</image:loc>
-	<image:title>Cat</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://gitarserwis.pl/img/serwisCat.webp</image:loc>
-	<image:title>Cat</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://gitarserwis.pl/img/teacher.jpg</image:loc>
-	<image:title>placeholder image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://gitarserwis.pl/img/teacher.webp</image:loc>
-	<image:title>placeholder image</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://gitarserwis.pl/img/tick-icon.svg</image:loc>
-	<image:title>cms icon</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://gitarserwis.pl/img/Elixir-logo.png</image:loc>
-	<image:title>Elixir Strings logo</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://gitarserwis.pl/img/Elixir-logo.webp</image:loc>
-	<image:title>Elixir Strings logo</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://gitarserwis.pl/img/clean_comp.png</image:loc>
-	<image:title>Cleanness</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://gitarserwis.pl/img/clean_comp.webp</image:loc>
-	<image:title>Cleanness</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://gitarserwis.pl/img/tools_comp.png</image:loc>
-	<image:title>Tools</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://gitarserwis.pl/img/tools_comp.webp</image:loc>
-	<image:title>Tools</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://gitarserwis.pl/img/red-cross.png</image:loc>
-	<image:title>Red cross</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://gitarserwis.pl/img/red-cross.webp</image:loc>
-	<image:title>Red cross</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://gitarserwis.pl/img/piotrHaiePic.jpg</image:loc>
-	<image:title>avatar 4</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://gitarserwis.pl/img/piotrHaiePic.webp</image:loc>
-	<image:title>avatar 4</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://gitarserwis.pl/img/og-image.png</image:loc>
-	<image:title>Gitar Serwis</image:title>
-	</image:image>
-</url>
-<url>
-	<loc>https://gitarserwis.pl/czynności-w-gitar-serwisie/</loc>
-	<lastmod>2026-06-05</lastmod>
-	<changefreq>weekly</changefreq>
-	<priority>0.5</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://gitarserwis.pl/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://gitarserwis.pl/img/serwisCat.webp</image:loc><image:title>Gitar Serwis</image:title></image:image>
+    <image:image><image:loc>https://gitarserwis.pl/img/teacher.webp</image:loc><image:title>Serwis gitarowy we Wrocławiu</image:title></image:image>
+    <image:image><image:loc>https://gitarserwis.pl/img/Elixir-logo.webp</image:loc><image:title>Elixir Strings</image:title></image:image>
+    <image:image><image:loc>https://gitarserwis.pl/img/clean_comp.webp</image:loc><image:title>Czyszczenie i konserwacja gitary</image:title></image:image>
+    <image:image><image:loc>https://gitarserwis.pl/img/tools_comp.webp</image:loc><image:title>Profesjonalne narzędzia serwisowe</image:title></image:image>
+    <image:image><image:loc>https://gitarserwis.pl/img/red-cross.webp</image:loc><image:title>Gitar Serwis SOR</image:title></image:image>
+    <image:image><image:loc>https://gitarserwis.pl/img/piotrHaiePic.webp</image:loc><image:title>Piotr Haie — Gitar Serwis</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://gitarserwis.pl/czynnosci-w-gitar-serwisie/</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
