@@ -1,0 +1,93 @@
+{
+  "hero": {
+    "language": "EN",
+    "slogan": "robię co mogę",
+    "name": "Piotr Haie",
+    "header": "Z miłości do własnych instrumentów powstała miłość do instrumentów moich klientów.",
+    "subheader": "Przed przybyciem proszę skontaktuj się ze mną!",
+    "email-button": "<span class=\"icon-spacer fa fa-paper-plane icon-4324\"></span>Napisz e-mail"
+  },
+  "location": {
+    "header": "Gdzie ten serwis?",
+    "subheader": "W samym centrum Wrocławia – przy malowniczej ulicy Tęczowej, pod numerem 81",
+    "paragraph": "Warsztat znajduje się na pierwszym piętrze loftowego budynku z czerwonej cegły. Jednym z charakterystycznych punktów jest stara żółta gitara akustyczna ustawiona w oknie serwisu. Wejście do budynku znajduje się po prawej stronie — prowadzą do niego brązowe, drewniane drzwi.",
+    "button": "Wyznacz trasę"
+  },
+  "pricing": {
+    "header": "TEMU TANIO MAM",
+    "subheader": "To niezrozumiałe zdanie to forma nazw pakietów, które przygotowałem w swojej ofercie specjalnie dla Ciebie.",
+    "p1": {
+      "header": "TEMU",
+      "subheader": "Kilka miesięcy TEMU w Gitar Serwis",
+      "paragraph": "Jeżeli Twój instrument w ciągu ostatnich 6 miesięcy odwiedził Gitar Serwis, cena tego pakietu będzie najbardziej atrakcyjna. Rekomenduję korzystanie z usług minimum dwa razy w roku, co zapewni sprawność i dbałość o instrument. Regularna kontrola gwarantuje, że Twój instrument pozostanie w idealnej kondycji.",
+      "time": "Maksymalny czas realizacji: tydzień",
+      "price": "300-500 PLN"
+    },
+    "p2": {
+      "header": "TANIO",
+      "subheader": "Nie chcę TANIO, chcę dobrze",
+      "paragraph": "W tym pakiecie zadbam o Twój instrument jak o własny. Sprawdzę każdy szczegół i dokonam niezbędnych poprawek. Ten pakiet polecam właścicielom wyjątkowo cennych gitar i modeli vintage, wymagających szczególnej troski.",
+      "time": "Maksymalny czas realizacji: 2&nbsp;tygodnie",
+      "price": "500-900 PLN"
+    },
+    "p3": {
+      "header": "MAM",
+      "subheader": "Nie MAM pojęcia",
+      "paragraph": "Jeżeli nie masz pojęcia kiedy ostatnio Twój instrument przekroczył wrota jakiegoś doświadczonego serwisu, zapewne jego stan wymaga sporej korekty. Proponuję pakiet SPA* z drobnymi naprawami, wymianą elementów elektroniki oraz dostosowaniem ustawień do Twoich potrzeb. Wszystko to i więcej znajdziesz w tym kompleksowym pakiecie dla Twojej gitary.",
+      "time": "Maksymalny czas realizacji: miesiąc",
+      "price": "900-2000 PLN"
+    },
+    "footer": "*Gitar Serwisowe SPA to czyszczenie oraz konserwacja specjalnymi olejkami uzupełnione o masaż instrumentu (rozegranie)."
+  },
+  "services": {
+    "header": "Struny, Pielęgnacja i Precyzja",
+    "subheader": "Dlaczego Gitar Serwis to wybór, który szanuje Twoje potrzeby i dba o każdy detal",
+    "s1": {
+      "header": "O strunach",
+      "paragraph": "Szanuję bardzo firmę Elixir, dlatego w Gitar Serwisie używam ich strun przy wymianach. Nie mam nic przeciwko Twoim wyborom i chętnie zamontuję również komplet, który lubisz i podobnie szanujesz."
+    },
+    "s2": {
+      "header": "Czysto i schludnie",
+      "paragraph": "Jeżeli <u>NIE</u> chcesz aby Twoja gitara była wyczyszczona oraz zakonserwowana, koszt serwisu <strong>wzrasta o 30%</strong> ceny usługi."
+    },
+    "s3": {
+      "header": "Profesjonalne narzędzia",
+      "paragraph": "Przy pracy z instrumentami używam narzędzi najwyższej jakości, to dzięki nim jestem w stanie osiągnąć precyzję oraz bezpieczeństwo dokonywanych napraw."
+    }
+  },
+  "additional": {
+    "a1": {
+      "header": "SOR Gitar Serwis",
+      "subheader": "Gitar Serwis to lecznica dla instrumentów, dlatego zabezpieczyliśmy również nagłe i nieprzewidziane sytuacje!",
+      "paragraph": "Jeżeli zauważyłeś, że z Twoim instrumentem jest coś nie tak, a do koncertu lub nagrania zostało kilka dni/kilka godzin, nie martw się, jest spora szansa, że wszystko się uda. Zapraszam do kontaktu telefonicznego w przypadku potrzeby nagłego serwisu lub sprawdzenia instrumentu. Proszę o kontakt w rozsądnych godzinach, chyba że sytuacja wymaga inaczej."
+    },
+    "a2": {
+      "header": "Naprawa „od ręki” – umów wizytę!",
+      "paragraph": "W Gitar Serwis najpopularniejszą formą naprawy jest spotkanie serwisowe, podczas którego wykonujemy większość usług na miejscu. To nie tylko szybka naprawa, ale także okazja, by lepiej poznać swój instrument i dowiedzieć się, jak o niego dbać.<br><br>Chcesz wymienić struny, wyregulować gryf lub naprawić elektronikę? Usługa „od ręki” jest właśnie dla Ciebie.<br><br>W przyjaznej atmosferze przeprowadzimy niezbędne prace serwisowe i dopasujemy instrument do Twoich preferencji, tak aby grało się na nim jak najlepiej. Dowiesz się również, jak samodzielnie zadbać o gitarę, by świetnie brzmiała i długo zachowała doskonały wygląd.<br><br>Koszt 1 godziny serwisu: 150 PLN."
+    }
+  },
+  "about": {
+    "header": "Coś dla wytrwałych",
+    "subheader": "Jeżeli dotarłeś aż tak nisko, należy Ci się bonus lub nawet kilka!",
+    "paragraph": "Na hasło GITARSERWIS otrzymasz <strong>20%</strong> zniżki przy zakupie przewodów <a href=\"https://freakycables.com/\" target=\"_blank\">FreakyCables</a> lub na zamówienie specjalne <a href=\"https://haiewire.pl/\" target=\"_blank\">HaieWire</a>.<br><br>Po udanym serwisie zapraszam do wystawienia opinii Google, dzięki niej otrzymasz kupon zniżkowy <strong>25%</strong> na wybrany pakiet w Gitar Serwis. Rabat możesz wykorzystać samodzielnie lub przekazać jako prezent innym.",
+    "reviewLink": "<span class=\"icon-spacer far fa-comment-dots\"></span>Zostaw opinię!",
+    "slogan": "Robię co mogę, zapraszam!<br>",
+    "signature": "Piotr Haie<br>Założyciel Gitar Serwis"
+  },
+  "testimonial": {
+    "header": "Co mówią klienci?",
+    "subheader": "Kilka opinii od tych, którzy już skorzystali",
+    "t1": {
+      "quote": "\"Najlepszy serwis gitar! 🔥🔥🔥<br>Piotrek podchodzi do wszystkich gitar i basów z niesamowitą i już rzadko spotykaną dziś pasją!<br>Wszystko jest precyzyjnie i idealnie ustawione pod wymagania klienta 😁<br>Polecam z całego serca 🩵\"<br>",
+      "instrument": "Bass"
+    },
+    "t2": {
+      "quote": "\"Piotrek wskrzesił moją gitarę i w końcu mogę czerpać przyjemność z grania. Polecam wszystkim usługi Piotrka, bo ten człowiek wie o gitarach wszystko i chętnie dzieli się swoją wiedzą, jeśli coś jest niejasne. Pozdrawiam :)\"",
+      "instrument": "Gitara elektryczna"
+    },
+    "t3": {
+      "quote": "\"Mój akustyczny Gretsch ożył po wizycie u Piotrka. Stara, przeeksploatowana elektronika została gruntownie naprawiona, a profesjonalny setup spowodował, że bas jest wreszcie wygodny i dźwięczny! Dzięki Piotr i do następnego!\"",
+      "instrument": "Bass"
+    }
+  }
+}

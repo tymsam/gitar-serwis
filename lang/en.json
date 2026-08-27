@@ -1,0 +1,93 @@
+{
+  "hero": {
+    "language": "PL",
+    "slogan": "I’m doing my best",
+    "name": "Piotr Haie",
+    "header": "Out of love for my own instruments grew a love for my clients' instruments.",
+    "subheader": "Please contact me before arriving!",
+    "email-button": "<span class=\"icon-spacer fa fa-paper-plane icon-4324\"></span>Send an email"
+  },
+  "location": {
+    "header": "So where is the service located?",
+    "subheader": "Right in the center of Wrocław – on the picturesque Tęczowa Street, number 81",
+    "paragraph": "The workshop is located on the first floor of a loft-style brick building. One of its distinctive features is an old yellow acoustic guitar displayed in the workshop window. The entrance is on the right-hand side of the building and can be recognized by its brown wooden door.",
+    "button": "Navigate"
+  },
+  "pricing": {
+    "header": "AGO, CHEAP, NO!",
+    "subheader": "This seemingly nonsensical phrase contains the names of service packages I’ve prepared especially for you as part of my offer.",
+    "p1": {
+      "header": "AGO",
+      "subheader": "A few months AGO at Gitar Serwis",
+      "paragraph": "If your instrument has visited Gitar Serwis within the last 6 months, the price of this package will be the most attractive. I recommend using the services at least twice a year, which will ensure your instrument’s performance and care. Regular check-ups guarantee that your instrument will remain in perfect condition.",
+      "time": "Maximum turnaround time: 1&nbsp;week",
+      "price": "PLN 300-500"
+    },
+    "p2": {
+      "header": "CHEAP",
+      "subheader": "I don’t want CHEAP, I want quality",
+      "paragraph": "In this package, I will take care of your instrument as if it were my own. I will check every detail and make the necessary adjustments. I recommend this package for owners of exceptionally valuable guitars and vintage models that require special attention.",
+      "time": "Maximum turnaround time: 2&nbsp;weeks",
+      "price": "PLN 500-900"
+    },
+    "p3": {
+      "header": "NO",
+      "subheader": "I have NO idea",
+      "paragraph": "If you have no idea when your instrument last entered the doors of an experienced service shop, it probably needs significant adjustments. I suggest the SPA* package, including minor repairs, replacement of electronic components, and adjustment of settings to your needs. All this and more can be found in this comprehensive package for your guitar.",
+      "time": "Maximum turnaround time: 1&nbsp;month",
+      "price": "PLN 900-2000"
+    },
+    "footer": "*Gitar Serwis SPA includes cleaning and maintenance with special oils, complemented by an instrument massage (play-in)."
+  },
+  "services": {
+    "header": "Strings, Care, and Precision",
+    "subheader": "Why Gitar Serwis is the choice that respects your needs and cares for every detail",
+    "s1": {
+      "header": "About strings",
+      "paragraph": "I have great respect for the Elixir company, which is why I use their strings for replacements at Gitar Serwis. I have nothing against your preferences and will gladly install the set you like and respect as well."
+    },
+    "s2": {
+      "header": "Clean and tidy",
+      "paragraph": "If you <u>DO NOT</u> want your guitar to be cleaned and conditioned, the service cost <strong>increases by 30%</strong> of the original price."
+    },
+    "s3": {
+      "header": "Professional Tools",
+      "paragraph": "When working with instruments, I use the highest quality tools, which allow me to achieve precision and ensure the safety of the repairs."
+    }
+  },
+  "additional": {
+    "a1": {
+      "header": "Guitar ER",
+      "subheader": "Gitar Serwis is a clinic for instruments, which is why we've also prepared for urgent and unexpected situations!",
+      "paragraph": "If you've noticed that something is wrong with your instrument, and there are only a few days or hours left before a concert or recording, don't worry, there's a good chance everything will work out. Feel free to contact me by phone for emergency service or to have your instrument checked. Please call during reasonable hours, unless the situation demands otherwise."
+    },
+    "a2": {
+      "header": "Hands-On Guitar Service – Book an Appointment!",
+      "paragraph": "At Gitar Serwis, the most popular service option is an in-person workshop session, during which we can perform most repairs and adjustments on the spot. It’s not just a quick repair—it’s also an opportunity to learn more about your instrument and how to take proper care of it.<br><br>Want to change your strings, adjust the neck, or fix the electronics? This hands-on service is for you.<br><br>In a friendly and relaxed atmosphere, we’ll carry out the necessary work and set up your instrument according to your preferences, ensuring it feels and plays exactly the way you want. You’ll also learn how to maintain your guitar so it sounds great and stays in excellent condition for years to come.<br><br>Price: PLN 150 per hour of service."
+    }
+  },
+  "about": {
+    "header": "Something for the Persistent",
+    "subheader": "If you've made it this far, you deserve a bonus or even a few!",
+    "paragraph": "By using the code GITARSERWIS, you'll get a <strong>20%</strong> discount on the purchase of <a href=\"https://freakycables.com/\" target=\"_blank\">FreakyCables</a> cables or on custom orders from <a href=\"https://haiewire.pl/\" target=\"_blank\">HaieWire</a>.<br><br>After a successful service, you're invited to leave a Google review. As a thank you, you'll receive a <strong>25%</strong> discount coupon for a selected package at Gitar Serwis. You can use the discount yourself or give it as a gift to others.",
+    "reviewLink": "<span class=\"icon-spacer far fa-comment-dots\"></span>Write a review!",
+    "slogan": "I’m doing my best!<br>",
+    "signature": "Piotr Haie<br>Founder of Gitar Serwis"
+  },
+  "testimonial": {
+    "header": "What do clients say?",
+    "subheader": "A few reviews from people who have already used the service",
+    "t1": {
+      "quote": "\"The best guitar service ever! 🔥🔥🔥<br>Piotrek approaches every guitar and bass with incredible passion that is rare to see today!<br>Everything is precise and perfectly set up to the client’s needs 😁<br>I recommend him with all my heart 🩵\"<br>",
+      "instrument": "Bass"
+    },
+    "t2": {
+      "quote": "\"Piotrek brought my guitar back to life and now I can finally enjoy playing again. I recommend Piotrek’s services to everyone, because this guy knows everything about guitars and gladly shares his knowledge whenever something is unclear. Greetings :)\"",
+      "instrument": "Electric guitar"
+    },
+    "t3": {
+      "quote": "\"My acoustic Gretsch came back to life after visiting Piotrek. The old, worn-out electronics were thoroughly repaired, and the professional setup made the bass finally comfortable and resonant! Thanks Piotr, and see you next time!\"",
+      "instrument": "Bass"
+    }
+  }
+}
